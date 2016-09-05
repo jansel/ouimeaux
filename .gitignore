@@ -43,4 +43,10 @@ docs/_build
 
 .DS_Store
 *~
-*.xcodeproj
+*.xcodeproj.idea
+
+# PyCharm
+.idea
+
+# Virtualenv
+venv
